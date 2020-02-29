@@ -1,0 +1,29 @@
+{
+  "name": "mean-app",
+  "version": "1.0.0",
+  "description": "MEAN stack application",
+  "main": "appo.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hufesouza/mean-stack-app.git"
+  },
+  "keywords": [
+    "mean"
+  ],
+  "author": "Hufesouza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hufesouza/mean-stack-app/issues"
+  },
+  "homepage": "https://github.com/hufesouza/mean-stack-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.0"
+  }
+}

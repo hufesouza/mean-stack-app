@@ -1,2 +1,2 @@
 # mean-stack-app
-App using nom
+This repo contains the MEAN stack application that is built by Hufesouza.

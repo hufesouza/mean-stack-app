@@ -22,7 +22,7 @@
   "homepage": "https://github.com/hufesouza/mean-stack-app#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "mongodb": "^3.5.4",
     "mongoose": "^5.9.4"
   },
